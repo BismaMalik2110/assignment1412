@@ -1,4 +1,5 @@
 # assignment1412
+![saman16](https://github.com/user-attachments/assets/bf062cc1-1826-472f-94a2-dca9aa106877)
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,15 +9,14 @@
 </head>
     <boby>
         <h1>MY FIRST WEBSITE</h1>
-        <hr>
+         <hr>
         <p><U>"CLICK ON THE LINK BELOW TO EASILY GO ON THE GOOGLE"</U></p>
         <a href="https://www.google.com" target="_blank">click me for the google visit</a>
         <br>
         <br>This is my very first website and i'm <b>very excited!!!</b>
 <br>
-        <br><img src="![saman16](https://github.com/user-attachments/assets/bf062cc1-1826-472f-94a2-dca9aa106877)" alt="" srcset="" width="30" height="25">
     </boby>
 </html>
-![saman16](https://github.com/user-attachments/assets/bf062cc1-1826-472f-94a2-dca9aa106877)
+
 
 
